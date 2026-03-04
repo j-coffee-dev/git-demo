@@ -16,7 +16,7 @@ int linear_function(int x, int m, int c) {
 }
 
 int transform(int val) {
-    return val * 5;
+    return val * 2;
 }
 
 int main()

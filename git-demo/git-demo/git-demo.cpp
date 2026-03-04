@@ -7,6 +7,18 @@ int add_nums(int a, int b) {
     return a + b;
 }
 
+int mult_nums(int a, int b) {
+    return a * b;
+}
+
+int linear_function(int x, int m, int c) {
+    return m * x + c;
+}
+
+int transform(int val) {
+    return val * 2;
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
